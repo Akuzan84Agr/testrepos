@@ -2,3 +2,4 @@
 * featureA
 * featureB
 * featureB'
+* featureC
